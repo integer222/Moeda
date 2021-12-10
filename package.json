@@ -4,7 +4,7 @@
     "displayName": "Moeda",
     "description": "Dependency Injection Framework",
     "unity": "2020.3",
-    "version": "2021.9.21",
+    "version": "2021.12.10",
     "keywords": [
         "DI",
         "Moeda"
