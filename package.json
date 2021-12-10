@@ -1,0 +1,13 @@
+{
+    "name": "microlibs.moeda",
+    "author": "Alexander Plotnikov",
+    "displayName": "Moeda",
+    "description": "Dependency Injection Framework",
+    "unity": "2020.3",
+    "version": "2021.9.21",
+    "keywords": [
+        "DI",
+        "Moeda"
+    ],
+    "dependencies": {}
+}
